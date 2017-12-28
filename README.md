@@ -10,10 +10,13 @@ EDIT (@raincrash): Modified the list. Plan is to get a novice understanding of t
 ## "Programming" Languages
 
 - [ ] [Python](http://python.org)
-  - [ ] [Itertools](https://docs.python.org/3/library/itertools.html)
-  - [ ] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
-  - [ ] [Numpy](http://www.numpy.org/)
-  - [ ] [Scipy](https://scipy.org/)
+  - [ ] Essential
+    - [ ] [Itertools](https://docs.python.org/3/library/itertools.html)
+    - [ ] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
+  - [ ] Data Wrangling 
+    - [ ] [Numpy](http://www.numpy.org/)
+    - [ ] [Scipy](https://scipy.org/)
+    - [ ] [Pandas](https://pandas.pydata.org/)
   - [ ] [Matplotlib](http://matplotlib.org/)
   - [ ] [scikit-learn](http://scikit-learn.org/)
   - [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
