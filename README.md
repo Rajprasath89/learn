@@ -19,7 +19,7 @@ EDIT (@raincrash): Modified the list. Plan is to get a novice understanding of t
   - [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
   - [ ] [Web2Py](http://www.web2py.com/)
   - [ ] [Django](https://www.djangoproject.com/)
-  - [ ] [Flask](http://flask.pocoo.org/)
+  - [x] [Flask](http://flask.pocoo.org/)
   - [ ] [Pyramid](http://www.pylonsproject.org/)
   - [ ] [Scapy](http://www.secdev.org/projects/scapy/doc/introduction.html)
 - [ ] [Javascript](https://www.javascript.com/)
