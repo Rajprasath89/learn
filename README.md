@@ -2,7 +2,7 @@
 This is my list of things that I'd like to learn. Mostly this will relate to software development but may include other stuff. If you feel like this list contains a lot of things you'd like to learn please feel free to fork the repo. If there are things that you think I'd be interesting in learning or there are better links to learn from I urge you to submit a pull request.
 
 
-EDIT (@raincrash): Modified the list. Plan is to get a novice understanding of the frameworks/paradigms/tools in the list before the mid of 2018. :) Will keep adding/modifying the list as I go.
+EDIT (@raincrash): Modified the list. Plan is to get a novice understanding of the frameworks/paradigms/tools before the mid of 2018. :) Will keep adding/modifying the list as I go. 
 
 # The List
 
@@ -11,6 +11,9 @@ EDIT (@raincrash): Modified the list. Plan is to get a novice understanding of t
 
 - [ ] [Python](http://python.org)
   - [ ] Essential
+    - [ ] [iPython](https://ipython.org/)
+    - [ ] [jupyter](http://jupyter.org/)
+      - [ ] [nbdime](https://nbdime.readthedocs.io/)
     - [ ] [Itertools](https://docs.python.org/3/library/itertools.html)
     - [ ] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
     - [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
@@ -24,7 +27,11 @@ EDIT (@raincrash): Modified the list. Plan is to get a novice understanding of t
     - [ ] [Matplotlib](http://matplotlib.org/)
     - [ ] [seaborn](https://seaborn.pydata.org/)
     - [ ] [bokeh](https://bokeh.pydata.org/)
-  - [ ] [scikit-learn](http://scikit-learn.org/)
+    - [ ] [holoviews](holoviews.org/)
+  - [ ] Modelling
+    - [ ] [scikit-learn](http://scikit-learn.org/)
+    - [ ] [statsmodels](www.statsmodels.org/)
+    - [ ] [networkx](https://networkx.github.io/)
   - [ ] Web
     - [ ] [Web2Py](http://www.web2py.com/)
     - [ ] [Django](https://www.djangoproject.com/)
@@ -34,17 +41,6 @@ EDIT (@raincrash): Modified the list. Plan is to get a novice understanding of t
 - [ ] [(TODO) C++11  or C++14]
   - [ ] [Qt](https://www.qt.io/)
   - [ ] [OpenCV](http://opencv.org/)
-- [ ] [Javascript](https://www.javascript.com/)
-  - [x] [Jquery](https://jquery.com/)
-  - [x] [Angular](https://angularjs.org/)
-  - [x] [Knockout](http://knockoutjs.com/)
-  - [ ] [Angular2](https://angularjs.org/)
-  - [ ] [React](https://facebook.github.io/react/)
-  - [ ] [Node.js](https://nodejs.org/en/)
-  - [ ] [Express.js](https://expressjs.com/)
-  - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
-  - [ ] [D3.js](http://d3js.org)
-  - [ ] [Vue.js](http://vuejs.org/)
 - [ ] [(TODO) One "functional" language]()
   - [ ] []()
 
